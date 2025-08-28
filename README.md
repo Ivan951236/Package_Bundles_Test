@@ -1,5 +1,5 @@
 # Package_Bundles
-Package Bundles by Ivan951236 to be used with UniGetUI, beta edition
+Package Bundles by Ivan951236 to be used with [UniGetUI](https://github.com/marticliment/UniGetUI), beta edition
 
 And also to be used with Powershell for the .ps1 script
 
