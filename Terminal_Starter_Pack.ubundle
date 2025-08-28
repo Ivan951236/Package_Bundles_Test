@@ -1,0 +1,49 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "25.01",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "9N8G5RFZ9XK3",
+      "Name": "Windows Terminal Preview",
+      "Version": "1.24.2372.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "9P95ZZKTNRN4",
+      "Name": "PowerShell Preview",
+      "Version": "7.6.4.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Git.Git",
+      "Name": "Git",
+      "Version": "2.51.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "powershell-beautifier",
+      "Name": "Powershell Beautifier",
+      "Version": "1.2.5",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    },
+    {
+      "Id": "powershell-yaml",
+      "Name": "Powershell Yaml",
+      "Version": "0.4.12",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
